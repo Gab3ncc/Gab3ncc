@@ -29,6 +29,6 @@
   <a href = "mailto:gabrieldosantossilverio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-dos-santos-silverio-2102b9207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-![gif fogueira](https://user-images.githubusercontent.com/128182611/227025133-367287dd-4aa3-40e5-a39d-1f8171da1589.gif)
+ </div>
+ 
+![fogueira](https://user-images.githubusercontent.com/128182611/227800125-349c9855-ea04-4e67-bca7-eaddc3a397a7.gif)
