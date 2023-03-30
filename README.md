@@ -34,3 +34,5 @@
 ###### * ✨ when life gets hard, keep marchin' on even if the finish line is far or you have to push the car ✨*
  
 ![fogueira](https://user-images.githubusercontent.com/128182611/227800125-349c9855-ea04-4e67-bca7-eaddc3a397a7.gif)
+
+![snake.gif](https://github.com/Gab3ncc/Gab3ncc/blob/output/github-contribution-grid-snake.svg)
