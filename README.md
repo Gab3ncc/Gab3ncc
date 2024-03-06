@@ -1,6 +1,6 @@
 ### Olá, Me chamo Gabriel Silverio. 👋
 
-- 🔭 Tenho 21 anos
+- 🔭 Tenho 22 anos
 - :cyclone: Estudando VMware e AWS Cloud Practitioner 
 - :palm_tree: Aperfeiçoando habilidades em JavaScript
 
